@@ -1,0 +1,23 @@
+---
+title: "musician deaths outline"
+output: 
+  html_document:
+    theme: journal
+---
+
+* Deaths across decades. 
+* top 5 causes of deaths each decade. could further drill down within year to see if there is any pattern
+* top 5 states for deaths
+    + make a map?
+* has the median age changed across time
+    + median age within months or years
+* overall trend
+* do time series analysis maybe for last two mths of 2018 or jan 2019
+* new change
+
+```{r, collapse=TRUE}
+x <- 3+3
+
+x
+```
+
